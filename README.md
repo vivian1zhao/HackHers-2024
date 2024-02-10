@@ -47,4 +47,9 @@ This is where we will keep all of the information about our project in one place
 *     Fiserv goodie bag
 
 **Ideas for Our Project**
-* 
+1. Best Use of AI:
+2.   An AI-powered personal assistant app that learns user preferences over time and provides personalized recommendations for various tasks, such as scheduling appointments, managing tasks, and even suggesting leisure activities.
+3. Financial Literacy Hack: Vanguard Challenge:
+4.   A financial literacy app targeted at young adults, offering interactive modules on topics like budgeting, saving, investing, and retirement planning, all presented in a gamified format to enhance engagement and learning.
+
+
