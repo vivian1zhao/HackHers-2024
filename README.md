@@ -48,8 +48,8 @@ This is where we will keep all of the information about our project in one place
 
 **Ideas for Our Project**
 * Best Use of AI:
-*   An AI-powered personal assistant app that learns user preferences over time and provides personalized recommendations for various tasks, such as scheduling appointments, managing tasks, and even suggesting leisure activities.
+*     An AI-powered personal assistant app that learns user preferences over time and provides personalized recommendations for various tasks, such as scheduling appointments, managing tasks, and even suggesting leisure activities.
 * Financial Literacy Hack: Vanguard Challenge:
-*   A financial literacy app targeted at young adults, offering interactive modules on topics like budgeting, saving, investing, and retirement planning, all presented in a gamified format to enhance engagement and learning.
+*     A financial literacy app targeted at young adults, offering interactive modules on topics like budgeting, saving, investing, and retirement planning, all presented in a gamified format to enhance engagement and learning.
 
 
